@@ -1,6 +1,0 @@
-[submodule "workInProgress"]
-	path = workInProgress
-	url = https://github.com/daniel1006/workInProgress.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/daniel1006/workInProgress.git
